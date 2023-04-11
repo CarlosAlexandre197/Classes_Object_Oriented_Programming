@@ -10,18 +10,23 @@ class Cachorro:
         self.comprimento = comprimento
         self.peso = peso
     def latir(self):
+        
         print(f'Au au! Eu sou o(a) {self.nome}')
     
     def moder(self):
+        
         print(f'O(a) cachorro(a) {self.nome} te mordeu!')
    
     def dormir(self):
+        
         print('ZzZzZz...')
     
     def brincar(self):
+        
         print('Eu gosto de brincar de bolinha!')
 
     def comer(self):
+        
         print(f'Eu peso {self.peso}kg e preciso comer {self.peso * 1000 * 0.01}g de comida para ficar satisfeito(a)')
 
 '''Com esse código, definimos apenas a nossa classe, que equivale à nossa representação 
