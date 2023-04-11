@@ -35,12 +35,15 @@ print(becca)
 # <__main__.Cachorro object at 0x000001D2C336BD90>
 
 becca.nome
+
 # 'Becca'
 
 becca.raca
+
 # 'West'
 
 type(becca)
+
 # __main__.Cachorro
 
 '''Agora, se quisermos criar uma nova instância de uma classe Cachorro, 
@@ -53,7 +56,9 @@ print(milka)
 # <__main__.Cachorro object at 0x000001C12516BD30>
 
 milka.latir()
+
 # Au au! Eu sou o(a) Milka
 
 becca.latir
+
 # Au au! Eu sou o(a) Becca
