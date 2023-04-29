@@ -1,2 +1,2 @@
-# Classes_POO
-Exemplos de Classes (Programação Orientada a Objetos).
+# Classes_Object Oriented Programming
+Examples of Classes (Object Oriented Programming).
