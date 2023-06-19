@@ -1,5 +1,5 @@
 '''As classes em Python são elementos que não são obrigatórios, mas ajudam a otimizar trechos dos códigos e também ajudam
-no entendimento dos códigos.'''
+no entendimento dos respectivos códigos.'''
 
 # Vamos criar uma classe: Cachorro, definir alguns atributos dessa classe e também suas ações.
 
